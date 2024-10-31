@@ -1,0 +1,4 @@
+swarm
+tavily
+python-dotenv
+requests
